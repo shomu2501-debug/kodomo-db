@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kodomo-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "403dc8ef-084b-4cc9-91af-32f13200597b",
+			"database_name": "kodomo-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
